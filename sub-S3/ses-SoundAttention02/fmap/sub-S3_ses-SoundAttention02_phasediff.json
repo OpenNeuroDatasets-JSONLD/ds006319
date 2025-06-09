@@ -1,0 +1,7 @@
+{
+    "EchoTime1": 0.01,
+    "EchoTime2": 0.01246,
+    "IntendedFor": [
+        "ses-SoundAttention02/func/sub-S3_ses-SoundAttention02_task-vggsoundattention_run-01_bold.nii.gz"
+    ]
+}

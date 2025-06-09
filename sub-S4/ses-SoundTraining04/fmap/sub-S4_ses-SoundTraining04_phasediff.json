@@ -1,0 +1,12 @@
+{
+    "EchoTime1": 0.01,
+    "EchoTime2": 0.01246,
+    "IntendedFor": [
+        "ses-SoundTraining04/func/sub-S4_ses-SoundTraining04_task-vggsoundtrain_run-01_bold.nii.gz",
+        "ses-SoundTraining04/func/sub-S4_ses-SoundTraining04_task-vggsoundtrain_run-02_bold.nii.gz",
+        "ses-SoundTraining04/func/sub-S4_ses-SoundTraining04_task-vggsoundtrain_run-03_bold.nii.gz",
+        "ses-SoundTraining04/func/sub-S4_ses-SoundTraining04_task-vggsoundtrain_run-04_bold.nii.gz",
+        "ses-SoundTraining04/func/sub-S4_ses-SoundTraining04_task-vggsoundtrain_run-05_bold.nii.gz",
+        "ses-SoundTraining04/func/sub-S4_ses-SoundTraining04_task-vggsoundtrain_run-06_bold.nii.gz"
+    ]
+}

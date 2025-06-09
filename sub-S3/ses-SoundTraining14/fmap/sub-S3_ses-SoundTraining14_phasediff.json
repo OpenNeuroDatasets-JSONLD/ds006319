@@ -1,0 +1,7 @@
+{
+    "EchoTime1": 0.01,
+    "EchoTime2": 0.01246,
+    "IntendedFor": [
+        "ses-SoundTraining14/func/sub-S3_ses-SoundTraining14_task-vggsoundtrain_run-01_bold.nii.gz"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Sound Reconstruction",
+    "License": "",
+    "Authors": [
+        "Jong-Yun Park", 
+        "Mitsuaki Tsukamoto", 
+        "Misato Tanaka", 
+        "Yukiyasu Kamitani"
+    ],
+    "Acknowledgements": "",
+    "HowToAcknowledge": "",
+    "Funding": [],
+    "ReferencesAndLinks": [
+        "Park, J.-Y., Tsukamoto, M., Tanaka, M., & Kamitani, Y. (2023). Sound reconstruction from human brain activity via a generative model with brain-like auditory features (arXiv:2306.11629). arXiv. http://arxiv.org/abs/2306.11629"
+    ],
+    "DatasetDOI": "",
+    "BIDSVersion": "1.0.2"
+}
