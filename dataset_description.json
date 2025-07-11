@@ -1,13 +1,13 @@
 {
     "Name": "Sound Reconstruction",
-    "License": "",
+    "License": "CC0",
     "Authors": [
-        "Jong-Yun Park", 
-        "Mitsuaki Tsukamoto", 
-        "Misato Tanaka", 
+        "Jong-Yun Park",
+        "Mitsuaki Tsukamoto",
+        "Misato Tanaka",
         "Yukiyasu Kamitani"
     ],
-    "Acknowledgements": "",
+    "Acknowledgements": "We thank Dr. Aoki Shuntaro for his help with data management, and the fMRI scanner and related facilities of the Kyoto University Institute for the Future of Human Society for providing access to the MRI scanner.",
     "HowToAcknowledge": "",
     "Funding": [],
     "ReferencesAndLinks": [
