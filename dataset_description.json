@@ -18,5 +18,8 @@
         "Park, J.-Y., Tsukamoto, M., Tanaka, M., & Kamitani, Y. (2023). Sound reconstruction from human brain activity via a generative model with brain-like auditory features (arXiv:2306.11629). arXiv. http://arxiv.org/abs/2306.11629"
     ],
     "DatasetDOI": "",
-    "BIDSVersion": "1.0.2"
+    "BIDSVersion": "1.0.2",
+    "EthicsApprovals": [
+        "the Ethics Committee of the Advanced Telecommunications Research Institute International, Approval No. 106"
+    ]
 }
