@@ -9,7 +9,11 @@
     ],
     "Acknowledgements": "We thank Dr. Aoki Shuntaro for his help with data management, and the fMRI scanner and related facilities of the Kyoto University Institute for the Future of Human Society for providing access to the MRI scanner.",
     "HowToAcknowledge": "",
-    "Funding": [],
+    "Funding": [
+        "Japan Society for the Promotion of Science (JSPS KAKENHI), Grant Numbers JP25H00450, JP20H05705 and JP20H05954",
+        "New Energy and Industrial Technology Development Organization (NEDO), Grant Number JPNP20006",
+        "Japan Science and Technology Agency (JST CREST), Grant Numbers JPMJCR22P3"
+    ],
     "ReferencesAndLinks": [
         "Park, J.-Y., Tsukamoto, M., Tanaka, M., & Kamitani, Y. (2023). Sound reconstruction from human brain activity via a generative model with brain-like auditory features (arXiv:2306.11629). arXiv. http://arxiv.org/abs/2306.11629"
     ],
