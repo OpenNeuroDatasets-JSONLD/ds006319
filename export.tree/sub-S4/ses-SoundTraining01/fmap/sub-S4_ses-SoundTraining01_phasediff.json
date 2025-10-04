@@ -1,0 +1,10 @@
+{
+    "EchoTime1": 0.01,
+    "EchoTime2": 0.01246,
+    "IntendedFor": [
+        "ses-SoundTraining01/func/sub-S4_ses-SoundTraining01_task-vggsoundtrain_run-01_bold.nii.gz",
+        "ses-SoundTraining01/func/sub-S4_ses-SoundTraining01_task-vggsoundtrain_run-02_bold.nii.gz",
+        "ses-SoundTraining01/func/sub-S4_ses-SoundTraining01_task-vggsoundtrain_run-03_bold.nii.gz",
+        "ses-SoundTraining01/func/sub-S4_ses-SoundTraining01_task-vggsoundtrain_run-04_bold.nii.gz"
+    ]
+}
