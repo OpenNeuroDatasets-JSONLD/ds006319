@@ -17,7 +17,7 @@
     "ReferencesAndLinks": [
         "Park, J.-Y., Tsukamoto, M., Tanaka, M., & Kamitani, Y. (2025). Natural sounds can be reconstructed from human neuroimaging data using deep neural network representation. PLOS Biology, 23(7), e3003293. https://doi.org/10.1371/journal.pbio.3003293"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds006319.v1.0.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006319.v1.0.1",
     "BIDSVersion": "1.0.2",
     "EthicsApprovals": [
         "the Ethics Committee of the Advanced Telecommunications Research Institute International, Approval No. 106"
